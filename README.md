@@ -2,7 +2,7 @@
 --
 ### &nbsp;I'm creator on :
 [<img style="width:15px;height:15px;" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/opensea.svg" /> OpenSea](https://opensea.io/edfrax)&nbsp;
-[<img style="width:15px;height:15px;" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/wazirx.svg" /> WazirXNFT](https://nft.wazirx.org/EdFRAX)
+[<img style="" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/wazirx.svg" /> WazirXNFT](https://nft.wazirx.org/EdFRAX)
 
 ---
 
