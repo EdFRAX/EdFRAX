@@ -1,8 +1,8 @@
 ### Hello I'm EdFRAX aka Deepak Rawat. I am a student of MA economics. I am a NFT creator and also make videos on my youtube channel on technical issues in NFTs so that I can help newcomers to this space.
 --
 ### &nbsp;I'm creator on :
-[<img style="width:15px;height:15px;" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/opensea.svg" /> OpenSea](https://opensea.io/edfrax)&nbsp;
-[<img style="" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/wazirx.svg" /> WazirXNFT](https://nft.wazirx.org/EdFRAX)
+[<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/opensea.svg" alt="OpenSea" name="OpenSea" />](https://opensea.io/edfrax)&nbsp;
+[<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/wazirx.svg" alt="WazirXNFT" name="WazirXNFT" />](https://nft.wazirx.org/EdFRAX)
 
 ---
 
