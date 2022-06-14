@@ -1,12 +1,12 @@
+# Hello I'm EdFRAX aka Deepak Rawat. I am a student of MA economics. I am a NFT creator and also make videos on my youtube channel on technical issues in NFTs so that I can help newcomers to this space.
 
-
----
+--
 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/html.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </p>
