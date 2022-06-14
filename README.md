@@ -3,7 +3,7 @@
 ### &nbsp;I'm creator on :
 <p>
 [<img width="50" heigh="50" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/opensea.svg" alt="OpenSea" name="OpenSea" />](https://opensea.io/edfrax)&nbsp;
-[<imgwidth="50" heigh="50" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/wazirx.svg" alt="WazirXNFT" name="WazirXNFT" />](https://nft.wazirx.org/EdFRAX)
+[<img width="50" heigh="50" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/wazirx.svg" alt="WazirXNFT" name="WazirXNFT" />](https://nft.wazirx.org/EdFRAX)
 </p>
 ---
 
