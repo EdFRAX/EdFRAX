@@ -4,7 +4,7 @@ I am a NFT creator and also make videos on my youtube channel on technical issue
 ---
 ### &nbsp;I'm creator on :
 
-[<img width="30" height="30" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/opensea.svg" alt="OpenSea" name="OpenSea" />](https://opensea.io/edfrax)&nbsp;
+[<img width="40" height="40" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/opensea.svg" alt="OpenSea" name="OpenSea" />](https://opensea.io/edfrax)&nbsp;
 [<img width="50" height="50" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/wazirx.svg" alt="WazirXNFT" name="WazirXNFT" />](https://nft.wazirx.org/EdFRAX)
 
 ---
