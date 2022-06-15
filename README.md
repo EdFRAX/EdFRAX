@@ -1,3 +1,4 @@
+<div style='background:#000'>
 ### Hello I'm EdFRAX aka Deepak Rawat.
 I am a student of MA economics.
 I am a NFT creator and also make videos on my youtube channel on technical issues in NFTs so that I can help newcomers to this space.
@@ -9,11 +10,6 @@ I am a NFT creator and also make videos on my youtube channel on technical issue
 
 ---
 
-## &nbsp; Contact me:
-
-[MIT License][license-shield]][license-url]
-[LinkedIn][linkedin-shield]][linkedin-url]
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -22,3 +18,4 @@ I am a NFT creator and also make videos on my youtube channel on technical issue
 <img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
 <img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/react.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
 </p>
+</div>
