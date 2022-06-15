@@ -9,11 +9,19 @@ I am a NFT creator and also make videos on my youtube channel on technical issue
 
 ---
 
+## &nbsp; Contact me:
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Facebook][facebook-shield]][facebook-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/html.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/html.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
+<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/css.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
+<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
+<img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/react.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
 </p>
