@@ -9,8 +9,6 @@ I am a NFT creator and also make videos on my youtube channel on technical issue
 [<img width="45" height="45" src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/wazirx.svg" alt="WazirXNFT" name="WazirXNFT" />](https://nft.wazirx.org/EdFRAX)
 
 ---
-[![Awesome](https://github.com/EdFRAX/EdFRAX/blob/main/icons/ether.svg)](https://awesome.re)
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
