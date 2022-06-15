@@ -10,12 +10,9 @@ I am a NFT creator and also make videos on my youtube channel on technical issue
 ---
 
 ## &nbsp; Contact me:
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Facebook][facebook-shield]][facebook-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[MIT License][license-shield]][license-url]
+[LinkedIn][linkedin-shield]][linkedin-url]
 
 ### 🛠 &nbsp;Languages and Tools :
 
