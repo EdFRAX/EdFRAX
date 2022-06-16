@@ -21,6 +21,6 @@ I am a NFT creator and also make videos on my youtube channel on technical issue
 
 ### &nbsp;Find me on social media :
 
-[<img width="50" height="20" src="https://github.com/EdFRAX/EdFRAX/blob/main/images/1.png" alt="Instagram" name="Instagram" />](https://instagram.com/edfrax)
-[<img width="50" height="20" src="https://github.com/EdFRAX/EdFRAX/blob/main/images/2.png" alt="YouTube" name="YouTube" />](https://www.youtube.com/edfrax)
-[<img width="50" height="20" src="https://github.com/EdFRAX/EdFRAX/blob/main/images/3.png" alt="Twitter="Twitter" />](https://twitter.com/edfrax)
+[<img width="100" height="40" src="https://github.com/EdFRAX/EdFRAX/blob/main/images/1.png" alt="Instagram" name="Instagram" />](https://instagram.com/edfrax)
+[<img width="100" height="40" src="https://github.com/EdFRAX/EdFRAX/blob/main/images/2.png" alt="YouTube" name="YouTube" />](https://www.youtube.com/edfrax)
+[<img width="100" height="40" src="https://github.com/EdFRAX/EdFRAX/blob/main/images/3.png" alt="Twitter" name="Twitter" />](https://twitter.com/edfrax)
