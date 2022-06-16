@@ -17,8 +17,8 @@ I am a NFT creator and also make videos on my youtube channel on technical issue
 <img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
 <img src="https://github.com/EdFRAX/EdFRAX/blob/main/icons/react.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
 </p>
----
 
+---
 ### &nbsp;Find me on social media :
 
 [<img width="100" height="40" src="https://github.com/EdFRAX/EdFRAX/blob/main/images/1.png" alt="Instagram" name="Instagram" />](https://instagram.com/edfrax)
