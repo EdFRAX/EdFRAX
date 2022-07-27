@@ -1,6 +1,6 @@
 
 ### Hello I'm EdFRAX aka Deepak Rawat.
-I am a student of MA economics.
+I am 22 years old student of economics.
 I am a NFT creator and also make videos on my youtube channel on technical issues in NFTs so that I can help newcomers to this space.
 ---
 ### &nbsp;I'm creator on :
