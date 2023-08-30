@@ -16,7 +16,7 @@ But wait, there's more! Beyond the realm of coding, I'm also a creator of NFTs (
 
 ## 🤝 Connect
 
-- **Portfolio Showcase:** Check out my portfolio website, where I've assembled some of my works. [Portfolio](https://portfolio-edfrax.netlify.app/)
+- **Portfolio Showcase:** Check out my portfolio website, where I've assembled some of my works. [Portfolio](https://edfrax.github.io/Portfolio/)
 - **X Talks:** Join me [@EdFRAX](https://x.com/EdFRAX) on X.
 - **Instagram:** And on [Instagram](https://instagram.com/edfrax).
 
